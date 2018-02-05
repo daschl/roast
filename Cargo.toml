@@ -1,0 +1,10 @@
+[package]
+name = "roast"
+version = "0.0.0"
+authors = ["Michael Nitschinger <michael@nitschinger.at>"]
+description = "Safe and fast Rust bindings for native Java."
+readme = "README.md"
+homepage = "https://github.com/daschl/roast"
+license = "MIT/Apache-2.0"
+
+[dependencies]
